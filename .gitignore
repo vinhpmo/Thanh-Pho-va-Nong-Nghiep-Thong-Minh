@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Environment
+.env
+
+# Logs
+*.log
+# YOLO
+*.pt
+
+# Video
+*.mp4
+*.avi
+*.mov
+
+# Uploads
+uploads/
+
+# Data
+data/
